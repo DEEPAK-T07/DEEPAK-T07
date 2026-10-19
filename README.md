@@ -3,7 +3,7 @@
 💭 I am currently practicing DSA and solving problems on Leetcode.  
 ✌️ And here you can find a little intro about me.
 
-📄 [View My Resume]([https://drive.google.com/your-shared-link-here](https://drive.google.com/file/d/1QPQUm86LDy6KdnzD2pPYJHzteqJw0rDo/view?usp=drive_link))
+📄 [View My Resume](https://drive.google.com/file/d/1QPQUm86LDy6KdnzD2pPYJHzteqJw0rDo/view?usp=drive_link)
 
 ---
 
